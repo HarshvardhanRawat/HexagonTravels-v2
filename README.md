@@ -14,7 +14,6 @@ A responsive travel agency website built with vanilla HTML, CSS, and JavaScript.
 
 - HTML · CSS · JavaScript
 - Font Awesome 6 · Google Fonts (Montserrat)
-- Hosted on GitHub Pages
 
 ## Getting Started
 
